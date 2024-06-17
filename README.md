@@ -1,4 +1,4 @@
-# Mercedes-Benz-Greener-Manufacturing
+# Mercedes Benz Manufacturing
 DESCRIPTION
 
 Reduce the time a Mercedes-Benz spends on the test bench.
